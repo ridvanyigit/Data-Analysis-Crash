@@ -6,4 +6,5 @@ and their solutions encountered while working with popular Python data analysis 
 * NumPy
 * Matplotlib
 * Seaborn
+* Plotly
 The goal is to quickly resolve common issues and simplify the debugging process.
